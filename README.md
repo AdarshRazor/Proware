@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Page
 
-You can use the [editor on GitHub](https://github.com/AdarshRazor/Proware/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+You can go and readme file if you want(https://github.com/AdarshRazor/Proware/edit/master/README.md) to come to know about the program and how it basically works.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
